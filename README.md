@@ -7,5 +7,6 @@
 
 
 
-[![Watch Demo](thumbnail.png)](https://github.com/Jatin-Kesnani/OverdriveX-Open-World-Car-Simulator/blob/main/Project%20Demo.mp4?raw=true)
+[![Watch Demo]([thumbnail.png](https://i.imgur.com/3ZQ3Z8K.png))](https://github.com/Jatin-Kesnani/OverdriveX-Open-World-Car-Simulator/blob/main/Project%20Demo.mp4)
+
 
