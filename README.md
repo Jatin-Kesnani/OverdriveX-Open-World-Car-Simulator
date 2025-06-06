@@ -4,8 +4,7 @@ OverdriveX is a single-player car simulation game designed to offer an immersive
 
 Players can freely explore a large, open-world environment that includes diverse terrains such as city roads, highways, and off-road areas. The experience is enhanced by dynamic weather, real-time lighting changes, and interactive environmental elements.
 
-**Click here to view demo**  
-[![OverdriveX Demo](https://img.youtube.com/vi/IkXTPBjiwqQ/0.jpg)](https://www.youtube.com/watch?v=IkXTPBjiwqQ)
+👉 [Click here to view demo](https://www.youtube.com/watch?v=IkXTPBjiwqQ)
 [![OverdriveX Demo](thumbnail.png)](https://www.youtube.com/watch?v=IkXTPBjiwqQ)
 
 ## Key Features
