@@ -1,12 +1,21 @@
-# OverdriveX-Open-World-Car-Simulator
+# OverdriveX: Open World Car Simulator
 
+OverdriveX is a single-player car simulation game designed to offer an immersive and realistic driving experience. The game is built with a focus on high-quality graphics and smooth driving mechanics.
 
-## 🎥 Architecture Demo
+Players can freely explore a large, open-world environment that includes diverse terrains such as city roads, highways, and off-road areas. The experience is enhanced by dynamic weather, real-time lighting changes, and interactive environmental elements.
 
-[![Watch the Architecture Video](https://i.imgur.com/3ZQ3Z8K.png)](https://drive.google.com/file/d/1i2mylZPkNS0xfHZFPDXBwGHpNaXTu-xR/view?usp=drive_link)
+[![OverdriveX Demo](https://img.youtube.com/vi/0/0.jpg)](https://www.youtube.com/watch?v=IkXTPBjiwqQ)
 
+## Key Features
+- **Realistic Driving Physics:** Experience authentic driving with accurate acceleration, braking, suspension, and tire friction.
+- **Open-World Exploration:** A large, seamless environment allows for free-roaming across cityscapes, highways, and rugged off-road paths.
+- **Dynamic Weather & Day/Night Cycle:** Real-time weather changes and a full day-night cycle impact both visibility and driving conditions on the terrain.
+- **High-Quality 3D Assets:** The detailed world is built with custom assets designed in Blender, supplemented by other sourced models.
+- **Interactive Environment:** The world feels alive with interactive elements like traffic lights, road signs, and even destructible objects to heighten the realism.
 
-
-[![Watch Demo]([thumbnail.png](https://i.imgur.com/3ZQ3Z8K.png))](https://github.com/Jatin-Kesnani/OverdriveX-Open-World-Car-Simulator/blob/main/Project%20Demo.mp4)
-
-
+## Tools & Technologies
+- **Game Engine:** Unity (with C# for scripting)
+- **3D Modeling:** Blender (for custom assets)
+- **Physics Simulation:** Unity's PhysX Engine
+- **UI Design:** Unity UI
+- **Audio:** Unity's built-in audio tools and external sound libraries
